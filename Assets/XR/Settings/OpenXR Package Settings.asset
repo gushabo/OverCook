@@ -236,7 +236,6 @@ MonoBehaviour:
   - {fileID: 7298111703447526236}
   - {fileID: -5486592558456697337}
   - {fileID: -4277931196610322313}
-  - {fileID: -8811659338197025134}
   - {fileID: 8690091036465117824}
   - {fileID: -3061412750801361057}
   - {fileID: -7133500085122149532}
@@ -247,11 +246,7 @@ MonoBehaviour:
   - {fileID: 3906588413225507263}
   - {fileID: -4832498102287284981}
   m_renderMode: 1
-  m_autoColorSubmissionMode: 1
-  m_colorSubmissionModes:
-    m_List: 00000000
   m_depthSubmissionMode: 0
-  m_spacewarpMotionVectorTextureFormat: 0
   m_optimizeBufferDiscards: 0
   m_symmetricProjection: 0
 --- !u!114 &2040452198322956649
